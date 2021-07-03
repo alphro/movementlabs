@@ -14,8 +14,8 @@ today = datetime.today()
 prime_date=today-timedelta(days=day_pass)
 
 #account_sid and auth_token for connecting with twilio server
-account_sid = "ACd034c9531c5ee9a3f217b64dcd318290"
-auth_token = "54b89057ebcc0033e5746a3878fa63da"
+account_sid = "XXXXXX"
+auth_token = "XXXXXX"
 
 #client authentication  
 client = Client(account_sid, auth_token)
