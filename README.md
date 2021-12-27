@@ -1,3 +1,5 @@
-# movementlabs
+# Movement Labs Inc. - Twilio API ETL / Using PostgreSQL
 
-Simple Twilio API -> Redshift ETL using postgreSQL and tested with AdminPG4 database
+Pull SMS Messages from Movement Labs operations into Redshift Database
+Twilio API -> Redshift ETL using postgreSQL 
+Tested with AdminPG4 database
